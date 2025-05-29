@@ -6,10 +6,11 @@
 </div>
 
 I'm a creative problem solver and builder, crafting user-centered digital experiences through thoughtful design and clean code. I enjoy working on startup ideas, building products from scratch, and empowering teams through design and technology.
-🔧 Technologies & Tools
 
-    Design: Figma, Adobe XD, Illustrator, Photoshop, Indesign
-    Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
-    Backend: Node.js (basic), PHP, Laravel, Codeigniter
-    Mobile: React Native, Flutter
-    Tools: Git, GitHub, VS Code
+## 🔧 Technologies & Tools
+
+- Design: Figma, Adobe XD, Illustrator, Photoshop, Indesign
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- Backend: Node.js (basic), PHP, Laravel, Codeigniter
+- Mobile: React Native, Flutter
+- Tools: Git, GitHub, VS Code
