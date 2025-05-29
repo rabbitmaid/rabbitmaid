@@ -6,6 +6,7 @@
 </div>
 
 I'm a creative problem solver and builder, crafting user-centered digital experiences through thoughtful design and clean code. I enjoy working on startup ideas, building products from scratch, and empowering teams through design and technology.
+
 I love programming everyday, watching anime and also reading manga! I also enjoy art, graphic design, video editing, and also teaching what i know to others.
 
 ## 🔧 Technologies & Tools
