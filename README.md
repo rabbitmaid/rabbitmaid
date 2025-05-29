@@ -12,7 +12,7 @@ I love programming everyday, watching anime and also reading manga! I also enjoy
 ## 🔧 Technologies & Tools
 
 - Design: Figma, Adobe XD, Illustrator, Photoshop, Indesign
-- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap
+- Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS, Bootstrap, SASS
 - Backend: Node.js (basic), PHP, Laravel, Codeigniter
 - Mobile: React Native, Flutter
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, VS Code, Vite
