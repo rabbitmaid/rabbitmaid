@@ -17,6 +17,3 @@ I love programming everyday, watching anime and also reading manga! I also enjoy
 - CMS: WordPress
 - Mobile: React Native, Flutter
 - Tools: Git, GitHub, VS Code, Vite
-
-## 📊 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitmaid&layout=compact&theme=tokyonight)
