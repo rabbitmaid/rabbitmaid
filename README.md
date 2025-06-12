@@ -17,3 +17,7 @@ I love programming everyday, watching anime and also reading manga! I also enjoy
 - CMS: WordPress
 - Mobile: React Native, Flutter
 - Tools: Git, GitHub, VS Code, Vite
+
+## 📊 GitHub Stats
+![Mr Rabbit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabbitmaid&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitmaid&layout=compact&theme=tokyonight)
